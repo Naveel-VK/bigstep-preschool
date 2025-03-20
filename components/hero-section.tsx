@@ -55,7 +55,7 @@ export default function HeroSection() {
           <div className="flex items-center justify-center">
             <div className="relative w-full max-w-[500px] aspect-[4/3] overflow-hidden rounded-3xl shadow-2xl border-4 border-white transform transition-transform hover:scale-105">
               <Image
-                src="/placeholder.svg?height=600&width=800&text=Happy+Children+Learning"
+                src="/IMAGE1.jpg"
                 alt="Happy children learning and playing at Bigstep Preschool"
                 width={800}
                 height={600}
